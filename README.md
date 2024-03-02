@@ -15,14 +15,22 @@ Password: siddharth
 
 Key Features
 Task Management: Efficiently manage and organize your tasks with a user-friendly interface.
+
 Spring Framework: Utilizes the Java Spring framework, showcasing expertise in Spring MVC, Spring Boot, Spring Data JPA, and Spring Security.
+
 H2 Database Integration: Integrated the H2 database during development for efficient testing and debugging purposes, ensuring the application's reliability.
+
 Full-Stack Development: Worked on both frontend and backend aspects of the todo web application, demonstrating versatility in full-stack development.
+
 Security: Implemented Spring Security for secure user authentication, protecting the application from unauthorized access.
+
 Technologies Used
 Java Spring Framework: Leveraged the power of Spring MVC, Spring Boot, Spring Data JPA, and Spring Security to build a robust and secure application.
+
 H2 Database: Integrated the H2 database for efficient testing and debugging, ensuring the application's reliability.
+
 HTML, CSS, JavaScript: Developed a responsive and interactive user interface for seamless user experience.
+
 Other Dependencies: Utilized relevant dependencies and tools to enhance the application's functionality.
 
 Setup Instructions

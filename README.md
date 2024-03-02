@@ -2,7 +2,6 @@
 
 <p id="description">This repository contains a feature-rich todo web application developed using the Java Spring framework showcasing proficiency in Spring MVC Spring Boot Spring Data JPA and Spring Security. The application includes secure authentication with two sets of credentials:</p>
 
-<h2>🚀 Demo</h2>
 
 <h2>Project Screenshots:</h2>
 

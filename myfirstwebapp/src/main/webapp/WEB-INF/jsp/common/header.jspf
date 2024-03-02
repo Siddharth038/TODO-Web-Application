@@ -1,0 +1,11 @@
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
+
+<Html>
+<Head>
+<link href="webjars/bootstrap/5.3.3/css/bootstrap.min.css" rel="stylesheet" >
+<link href="https://cdn.jsdelivr.net/webjars/org.webjars.npm/bootstrap-datepicker/1.10.0/dist/css/bootstrap-datepicker.standalone.css" rel="stylesheet" >
+<title>
+Manage Your Todos</title>
+</Head>
+<Body>
